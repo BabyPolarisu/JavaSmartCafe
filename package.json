@@ -1,0 +1,10 @@
+{
+  "name": "smart-cafe-project",
+  "version": "1.0.0",
+  "description": "Smart Cafe Beverage Shop System with Java Design Patterns & Modern Web App",
+  "scripts": {
+    "dev": "npm --prefix webapp run dev",
+    "build": "npm --prefix webapp run build",
+    "preview": "npm --prefix webapp run preview"
+  }
+}
